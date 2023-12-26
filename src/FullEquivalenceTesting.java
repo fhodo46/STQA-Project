@@ -342,12 +342,6 @@ class EquivalenceProductControllerTest{
 
 
 class EquivalenceShoppingCartTest{
-
-
-
-
-
-
     @Test
     public void testAddItemValidProduct(){
         ShoppingCart shoppingCart= new ShoppingCart();
